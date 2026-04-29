@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,560
+10 second English lesson to improve your vocabulary.
+
+2
+00:00:03,560 --> 00:00:05,560
+The strawberry is going bad.
+
+3
+00:00:05,560 --> 00:00:07,660
+It's rotting.
+
+4
+00:00:07,660 --> 00:00:09,460
+The strawberry went bad.
+
+5
+00:00:09,460 --> 00:00:11,460
+It rotted.
+
